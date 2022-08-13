@@ -6,4 +6,6 @@ cambio realizado en mi local
 
 prueba con merge
 
+prueba con merge v2
+
 a ver que pasa v2
