@@ -2,8 +2,6 @@ Hola Git
 
 Probando el rep
 
-<<<<<<< HEAD
 cambio realizado en mi local
-=======
+
 prueba con merge
->>>>>>> refs/remotes/origin/master
